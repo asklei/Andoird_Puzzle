@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\LeiXu\AndroidStudioProjects\Puzzle\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\LeiXu\AndroidStudioProjects\Puzzle\app\build\intermediates\pre-dexed\debug\classes-05eb6e19eed112b98420cee930b5a90f7bacdcc8.jar" />
+    </item>
+    <item
+        jar="C:\Users\LeiXu\AndroidStudioProjects\Puzzle\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\LeiXu\AndroidStudioProjects\Puzzle\app\build\intermediates\pre-dexed\debug\classes-33bfd2394808161afdc0d8c40ecc72fcaabcd84f.jar" />
+    </item>
+    <item
+        jar="C:\Users\LeiXu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\LeiXu\AndroidStudioProjects\Puzzle\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-be327cf1372d2783350312753a76b37d34f17e11.jar" />
+    </item>
+    <item
+        jar="C:\Users\LeiXu\AndroidStudioProjects\Puzzle\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\LeiXu\AndroidStudioProjects\Puzzle\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-29c98ad8574ddc835656f6d48d1221f8f6710526.jar" />
+    </item>
+
+</items>
